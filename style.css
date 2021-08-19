@@ -1,0 +1,29 @@
+body{
+  text-align:center;
+}
+p{
+  font-size:20px;
+}
+#hobby{
+  font-family:sans-serif;
+}
+#title{
+  font-family:sans-serif;
+}
+.menu{
+    margin-left: 50%;
+    font-size: 25px;
+    padding-right: 25px;
+}
+.link{
+   background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+   padding-top: 5px;
+    padding-bottom: 5px;
+font-family: 'Montserrat', sans-serif;
+} 
+.link:hover{
+    background-color:dodgerblue;
+}
+   
